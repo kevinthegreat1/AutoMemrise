@@ -1,0 +1,1904 @@
+fluvius: river
+insula: island
+oppidum: town
+oceanus: ocean
+imperium: authority, empire
+provincia: province
+numerus: number
+littera: letter (of the alphabet)
+vocabulum: vocabulary word
+capitulum: chapter
+syllaba: syllable
+exemplum: example
+pensum: homework
+magnus (a um): large
+parvus (a um): small
+Graecus (a um): Greek
+Romanus (a um): Roman
+Latinus (a um): Latin
+multi (ae a): many
+pauci (ae a): few
+unus (a um): one
+duo: two
+tres: three
+sex: six
+mille: one thousand
+primus (a um): first
+secundus (a um): second
+tertius (a um): third
+est: is
+sunt: are
+in: in
+et: and (word)
+sed: but
+non: not
+quoque: also
+-ne?: (question)?
+singularis: singular
+pluralis: plural
+grammatica: grammar
+vir: man
+femina: woman
+puer: boy
+puella: girl
+familia: family
+pater: father
+mater: mother
+filius: son
+filia: daughter
+liberi: children
+servus: slave
+dominus: master
+ancilla: female slave
+domina: mistress
+titulus: title
+antiquus (a um): old
+novus (a um): new
+ceteri (ae a): other
+meus (a um): my
+tuus (a um): your
+centum: 100
+duo: 2
+tres: 3
+-que: and (ending)
+qui: who
+cuius: whose?
+masculinus (a um): masculine
+femininus (a um): feminine
+neuter (a um): neuter
+genetivus (a um): genitive
+quarum: whose (pl f.)
+quorum: whose (pl. m.)
+pagina: page
+liber: book
+scaena: scene
+persōna: character, person
+mamma: mama
+laetus (a um): glad, happy
+iratus (a um): angry
+probus (a um): good, proper
+improbus (a um): bad, improper
+cantat: (he/she) sings
+pulsat: (he/she) strikes, hits
+plōrat: (he/she) cries
+rīdet: (he/she) laughs, makes fun of
+videt: (he/she) sees
+vocat: (he/she) calls
+venit: (he/she) comes
+interrogat: (he/she) asks
+respondet: (he/she) answers
+dormit: (he/she) sleeps
+audit: (he/she) hears
+verberat: (he/she) beats, flogs
+mē: me [acc]
+tē: you [acc]
+eum: him [acc]
+eam: her [acc]
+neque: and not
+iam: now, already
+cūr?: why?
+quia: because
+hīc: here
+quī: who [masc]
+quae: who [fem]
+quem: whom [masc]
+quam: whom [fem]
+verbum: word, verb
+sacculus: purse
+pecunia: money
+nummus: coin
+mensa: table
+baculum: stick
+vacuus (a um): empty
+bonus (a um): good
+quattuor: four
+quīnque: five
+septem: seven
+octō: eight
+novem: nine
+decem: ten
+habet: (he/she) has, holds
+numerat: (he/she) counts
+adest: (he/she) is present
+abest: (he/she) is absent
+salūtat: (he/she) greets
+tacet: (he/she) is silent
+accusat: (he/she) accuses
+ponit: (he/she) places, puts
+sumit: (he/she) takes, lifts
+discedit: (he/she) goes away
+imperat: (he/she) commands, orders
+paret: (he/she) obeys
+eius: of him, her, it
+suus (a um): his/her/their own
+is: he
+quod: which
+rursus: again (not iterum)
+tantum: only, just
+villa: country house , villa
+hortus: garden
+rosa: rose
+līlium: lily
+nāsus: nose
+ōstium: door, entrance
+fenestra: window
+ātrium: main room, hall
+impluvium: water basin
+aqua: water
+peristylum: peristyle
+cubiculum: bedroom
+pulcher (a um): beautiful, fine
+foedus (a um): ugly
+sōlus (a um): alone, lonely
+habitat: (he/she) lives
+amat: (he/she) loves
+carpit: (he/she) picks, gathers
+dēlectat: (he/she) delights, pleases
+agit: (he/she) drives, performs
+etiam: also, even
+cum (+abl.): with
+sine (+abl.): without
+ab (+abl.): from
+ex (+abl.): out of
+ea: she
+id: it
+via: road, street
+mūrus: wall
+porta: gate
+lectīca: litter
+saccus: sack
+umerus: shoulder
+amīcus: friend
+inimīcus: (personal) enemy
+equus: horse
+amīca: girlfriend
+longus: long
+malus: bad, wicked, evil
+fessus: tired, weary
+duodecim: twelve
+it: (he/she) goes
+eunt: they go
+portat: (he/she) carries
+ambulat: (he/she) walks
+vehit: (he/she) transports
+timet: (he/she) fears
+intrat: (he/she) enters
+tam...quam: as...as
+quam: than
+inter (+acc.): among, between
+prope (+acc.): near
+procul ab (+abl.): far from
+circum (+acc.): around
+ad (+acc.): toward
+ante (+acc.): before, in front of
+post (+acc.): after, behind
+apud (+acc.): with (fancy)
+per (+acc.): through
+nam: for
+itaque: therefore, and so
+autem: however, but also
+unde?: from where? whence?
+quō?: where (to)? whither?
+oculus: eye
+lacrima: tear
+speculum: mirror
+ōstiārius: door-keeper, porter
+mālum: apple
+pirum: pear
+ōsculum: kiss
+fōrmōsus: beautiful
+plēnus: full (of)
+exspectat: (he/she) waits for, expects
+tenet: (he/she) holds, keeps
+lacrimat: (he/she) weeps, sheds tears
+aperit: (he/she) opens, discloses
+claudit: (he/she) shuts, closes
+vertit: (he/she) turns
+terget: (he/she) wipes
+advenit: (he/she) arrives
+inest: (he/she) is in
+dat: (he/she) gives
+adit: (he/she) goes to, approaches
+currit: (he/she) runs
+exit: (he/she) goes out
+es: you are
+sē: himself (refers back to the subject)
+hic: this (masc)
+haec: this (fem)
+hoc: this (neut)
+immō: no, on the contrary
+nōnne?: right?
+et...et: both...and
+neque...neque: neither...nor
+sōlum: only
+illīc: there
+eī: to her [dat]
+iīs: to them [dat]
+cui: to whom [dat]
+taberna: shop, stall
+gemma: precious stone, jewel
+margarīta: pearl
+tabernārius: shopkeeper
+ōrnāmentum: ornament, jewel
+ānulus: ring
+līnea: string, line
+digitus: finger
+collum: neck
+pretium: price, value
+sēstertius: sesterce (coin)
+pecūniōsus: wealthy
+gemmātus: set with a jewel
+medius: mid, middle
+quārtus: fourth
+vīgintī: twenty
+octōgintā: eighty
+nōnāgintā: ninety
+vēndit: (he/she) sells
+cōnsistit: (he/she) stops, halts
+emit: (he/she) buys
+aspicit: (he/she) looks at
+abit: (he/she) goes away (not discedit)
+accipit: (he/she) receives
+ōrnat: (he/she) equips, adorns
+clāmat: (he/she) shouts
+mōnstrat: (he/she) points out
+ostendit: (he/she) shows
+cōnstat: (it) is fixed, costs
+convenit: (it) fits, is fitting
+alius: another, others
+ille: that, the one, he
+tantus: so big, so great
+quantus: how large, (as large) as
+satis: enough, rather
+nimis: too, too much
+aut: or
+campus: plain
+pāstor: shepherd
+canis: dog
+ovis: sheep
+cibus: food
+herba: grass, herb
+rīvus: brook
+pānis: bread
+mōns: mountain
+vallis: valley
+collis: hill
+arbor: tree
+silva: forest
+lupus: wolf
+sōl: sun
+caelum: sky, heaven
+terra: earth, ground, country
+nūbēs: cloud
+umbra: shadow
+vestīgium: footprint, trace
+timor: fear
+dēns: tooth
+clāmor: shout, shouting
+modus: manner, way
+niger: black
+albus: white
+ūndēcentum: ninety-nine
+ēst: (he/she) eats
+edunt: they eat
+bibit: (he/she) drinks
+lūcet: (it) shines
+petit: (he/she) seeks, attacks, aims at
+dūcit: (he/she) guides, leads
+iacet: (he/she) lies
+relinquit: (he/she) leaves
+lātrat: (he/she) barks
+errat: (he/she) wanders, strays
+quaerit: (he/she) looks for, seeks, asks for
+reperit: (he/she) finds
+ululat: (he/she) howls
+bālat: (he/she) bleats
+accurrit: (he/she) comes running
+impōnit: (he/she) places in/on, puts
+ipse: himself
+procul: far from (+abl), far away
+suprā: over, above, beyond (+acc)
+sub: under, near (+abl)
+dum: while, as long as, till
+ut: like, as
+asinus: donkey
+leō: lion
+bēstia: beast, animal
+homō: human being, person
+fera: wild animal
+avis: bird
+piscis: fish
+aquila: eagle
+āēr: air
+āla: wing
+pēs: foot
+cauda: tail
+petasus: hat
+deus: god
+mercātor: merchant
+nūntius: messenger, message
+mare: sea
+flūmen: river (not fluvius)
+anima: breath, life, soul
+pulmō: lung
+animal: animal, living being
+nīdus: nest
+rāmus: branch
+folium: leaf
+ōvum: egg
+pullus: young (of an animal)
+pilum: spear
+vōx: voice
+lectus: bed, couch
+ferus: wild
+vīvus: living, alive
+mortuus: dead
+crassus: thick, fat
+tenuis: thin
+perterritus: terrified
+capere: to take, catch, capture
+volāre: to fly
+natāre: to swim
+movēre: to move, stir
+facere: to make, do, cause
+vīvere: to live, be alive
+spīrāre: to breathe
+parere: to give birth to
+lūdere: to play
+canere: to sing (of), crow, play
+audēre: to dare, venture
+occultāre: to hide
+ascendere: to climb, go up
+sustinēre: to support, sustain, endure
+cadere: to fall
+potest: (he/she) is able to
+possunt: they are able to
+vult: (he/she) wants
+volunt: they want
+necesse est: it is necessary
+nēmō: no one, nobody
+quod: because, that
+enim: for (not nam)
+ergō: therefore, thus
+corpus: body
+membrum: limb
+bracchium: arm
+crūs: leg
+manus: hand
+caput: head, chief
+auris: ear
+ōs: mouth
+capillus: hair
+frōns: forehead
+gena: cheek
+cerebrum: brain
+labrum: lip
+lingua: tongue
+pectus: breast
+cor: heart
+sanguis: blood
+vēna: vein
+color: color
+iecur: liver
+venter: belly, stomach
+viscera: interal organs
+medicus: physician, doctor
+pōculum: cup, glass
+culter: knife
+hūmānus: human
+stultus: stupid, foolish
+ruber: red
+sānus: healthy, well
+aeger: sick, ill
+noster: our, ours
+fluere: to flow
+sānāre: to heal, cure
+sedēre: to sit
+stāre: to stand
+tangere: to touch
+arcessere: to send for, fetch
+iubēre: to order, to tell
+revenīre: to come back
+aegrōtāre: to be ill
+dīcere: to say, speak, call
+spectāre: to watch, look at
+dolēre: to hurt, feel pain, grieve
+appōnere: to place on, serve
+sentīre: to feel, sense, think
+horrēre: to bristle, shudder at
+palpitāre: to beat, throb
+putāre: to think, suppose
+gaudēre: to be glad, be pleased
+dētergēre: to wipe off
+posse: to be able
+modo: only, just (not tantum)
+super: on top of, above (+acc)
+īnfrā: below (+acc)
+dē: down from,of, about (abl)
+atque: and, as, than
+nec: and/but not, nor, not
+frater: brother
+soror: sister
+nomen: name
+praenomen: first name
+cognomen: clan name
+avunculus: uncle
+miles: soldier
+scutum: shield
+gladius: sword
+arma: arms, weapons, armour
+arcus: bow
+sagitta: arrow
+pugnus: fist
+hasta: spear, lance (not pilum)
+pedes: infantry
+eques: cavalryman
+pars: part, some, direction
+finis: end, boundary, pl territory
+patria: homeland, native land
+hostis: enemy
+bellum: war
+exercitus: army
+dux: leader, general, ruler
+castra: camp
+passus: pace
+fossa: ditch, trench
+vallum: rampart
+equitatus: cavalry
+impetus: attack, impulse
+metus: fear (not timor)
+versus: verse
+milia: thousand
+tristis: sad, gloomy, grim
+armatus: armed
+brevis: short, brief
+gravis: heavy, serious, painful, important
+levis: light, slight
+barbarus: barbarian, foreign
+altus: high, deep
+latus: wide, broad
+fortis: brave, strong, bold
+vester: your (pl)
+ferre: to bear, carry, say
+pugnāre: to fight
+incolere: to inhabit, dwell
+dividere: to divide, separate
+oppugnāre: to attack
+metuere: to fear
+miltīre: to be a soldier
+defendere: to defend
+iacere: to throw
+expugnāre: to take by storm
+fugere: to flee
+contra: against
+ac: and
+adiectivum: adjective
+comparativus: comparative
+annus: year
+mensis: month
+dies: day
+saeculum: generation, century
+tempus: time
+facies: face, appearance, good looks
+mane: in the morning, early
+nox: night
+initium: beginning
+hora: hour
+meridies: midday
+luna: moon
+stella: star
+lux: light, daylight
+forma: form, beauty
+kalendae: kalends
+idus: ides
+nonae: nones
+aequinoctium: equinox
+aestas: summer
+hiems: winter, storm
+ver: spring
+autumnus: autumn
+imber: rain
+nix: snow
+lacus: lake
+glacies: ice
+urbs: city, town, Rome
+postremus: last
+dimidius: half
+aequus: equal
+clarus: clear, famous, distinguished
+totus: the whole, entire, all
+obscurus: obscure, dark
+exiguus: small, paltry; strict
+calidus: hot
+frigidus: cool
+indeclinabilis: undeclinable
+undecim: eleven
+triginta: thirty
+sexaginta: sixty
+ducenti: two hundred
+trecenti: three hundred
+quintus: fifth
+sextus: sixth
+septimus: seventh
+octavus: eighth
+nonus: ninth
+decimus: tenth
+undecimus: eleventh
+nomināre: to name
+illustrāre: to illumine, make clear
+incipere: to begin
+operīre: to cover
+tunc: then, at that time
+nunc: now
+igitur: therefore, and so (not itaque)
+item: in the same manner
+quandocunque: whenever
+superlativus: superlative
+gallus: chicken
+vestimentum: clothing
+tunica: tunic, shirt
+toga: toga
+calceus: shoe
+parentes: parents
+tabulae: records
+stilus: pen
+regula: ruler
+res: thing, affair, matter, business
+apertus: open, exposed
+clausus: closed
+sordidus: dirty
+purus: clean, pure
+nudus: naked
+togatus: clothed
+dexter: right, on the right, right hand
+sinister: left, on the left, unfavourable
+cubāre: to sleep
+omnis: all, every
+vigilāre: to keep watch, lie awake
+valēre: to be strong, have influence
+excitāre: to wake, rouse, excite
+surgere: to get up, stand up, rise
+afferre: to bring, convey
+lavāre: to wash
+mergere: to immerse, plunge
+solēre: to be accustomed
+frigēre: to be cold
+poscere: to demand, ask for
+vestīre: to clothe
+induere: to put on
+gerere: to bear, wear, wage war, manage
+inquit: said
+uterque: each (of two), both
+neuter: neither
+alter: the other, one (of two), another, a second
+uter: each
+mihi: to me
+tibi: to you
+nihil: nothing
+quomodo: how
+hodie: today
+adhuc: until now, still
+primum: first of all
+deinde: then
+praeter: beyond, except, besides
+an: or (not aut)
+participium: participle
+ludus: school
+magister: teacher, master
+discipulus: student, pupil
+virga: stick, rod
+sella: seat, office chair
+ianua: doorway
+tergum: back, rear
+lectulus: bed
+severus: strict
+tacitus: quiet, silent, in silence
+verus: true, real
+posterior: lower, behind
+inferior: lower
+prior: previous, former
+punīre: to punish
+considere: to sit down
+exclamāre: to shout out
+desinere: to cease
+redīre: to return, go back, come back
+reddere: to give back, restore, hand over, make
+recitāre: to recite, read aloud
+licet: it is allowed
+nondum: not yet
+statim: at once, immediately
+tum: then, next
+domi: at home
+antequam: before
+at: but (not sed)
+si: if
+nisi: unless, if not, except
+Oriens: the East
+occidens: the west
+septentriones: the north
+altum: deep water, the deep
+tonitrus: thunder
+fulgur: lightning
+situs: located
+superus: upper, higher
+inferus: lower
+maritimus: sea, naval
+tranquillus: peaceful
+turbidus: confused, disordered
+contrarius: opposite, contrary
+serenus: serene
+ater: black, dark
+interesse: be between
+appellare: to call, name
+navigāre: to sail
+influere: to flow in
+opperīrī: to wait for
+flāre: to blow
+turbāre: to disturb
+implēre: to fill up
+egredī: to go out, come out
+gubernāre: to steer
+orīrī: to rise, start, originate
+occidere: to kill, fall
+conscendere: to board, go on board
+proficiscī: to set out, depart
+sequī: to follow, pursue, attend
+cernere: to see, distinguish, perceive; decide; separate
+laetārī: to rejoice
+verērī: to fear, be afraid
+intuērī: to look at, see
+lābī: to glide, slip, fall
+complectārī: to embrace
+consolārī: to console
+loquī: to speak, talk
+invocāre: to call on
+iactāre: to throw, allege, bandy about
+haurīre: to drain, drink
+servāre: to save, protect, keep
+conārī: try
+fieri: to become
+paulum: a little
+simul: at the same time, together
+vix: hardly, scarcely, with difficulty
+praeterea: besides, moreover, in addition
+iterum: again (not rursus)
+sive: or; on the otherhand, but if
+vero: indeed, in fact, however
+propter: on account of, because of
+deponens: deponent
+navis: ship
+portus: harbour, port
+locus: place, position, situation, opportunity
+ora: coast
+merx: merchandise
+nauta: sailor
+ventus: wind
+tempestas: weather, storm, time
+fluctus: wave
+velum: sail
+puppis: stern; ship
+gubernator: helmsman, pilot
+as: penny, (ass)
+denarius: denarius
+doctus: learned
+indoctus: ignorant
+piger: lazy
+prudens: wise, smart
+industrius: hard working
+rectus: straight, direct, right, proper
+pravus: wrong,wicked
+facilis: easy
+difficilis: difficult
+absens: absent
+certus: certain, sure, fixed
+incertus: uncertain
+largus: generous, liberal; abundant, large
+centesimus: hundredth
+tredecim: thirteen
+quattuordecim: fourteen
+quindecim: fifteen
+sedecim: sixteen
+septindecim: seventeen
+duodeviginti: eightteen
+undeviginti: nineteen
+quadraginta: forty
+quinquaginta: fifty
+septuaginta: seventy
+sescenti: six hundred
+octingenti: eight hundred
+nongenti: nine hundred
+discere: to learn
+docēre: to teach, inform
+scīre: to know
+nescīre: to not know
+tollere: to raise, lift up, remove, destroy
+interpellare: to interrupt
+laudare: to praise
+cogitāre: to think, consider
+reprehendere: to seize, hold back
+promere: to take, bring out
+oportet: it is required
+computāre: to count
+reponere: to put back
+largior: give, lavish
+demonstrare: to show, point out, describe
+partior: share
+quisque: each, each one, every
+tot: so many
+postremo: at last, finally
+recte: rightly (morally)
+prave: wrongly
+aeque: equally
+usque: all the way, right up to, continuously
+numquam: never
+saepe: often
+quamquam: although, and yet
+quare: therefore, why
+vocalis: having a voice, vowel
+consonans: consonant
+zephyrus: west wind
+sententia: opinion, judgement, sentence
+erus: master (not dominus)
+mendum: mistake
+cera: wax tablet
+materia: material, suject
+apis: bee
+ferrum: iron, sword
+epistula: letter
+calamus: reed, arrow
+charta: paper
+papyrus: papyrus
+merces: goods, pay
+rarus: thinly scattered, rare
+frequens: plentiful, many a
+varius: different, various, varied
+turpis: ugly, disgraceful
+mollis: soft
+durus: hard, harsh, rough
+qualis: of what sort
+talis: such
+impiger: active, energetic
+iungere: to join
+coniungere: to join (together)
+significāre: to mean, make a sign
+intellegere: to understand
+legere: to read, choose
+scribere: to write
+dictāre: to dictate
+comparāre: to prepare, provide, obtain, compare
+exaudīre: to hear clearly
+deesse: to fail, be missing
+addere: to add, join
+corrigere: to set right
+premere: to press, push
+efficere: to carry out, accomplish
+animadvertere: to notice, observe
+superesse: to be left, remain, survive
+delēre: to destroy, erase
+signāre: to sign, mark
+imprimere: to impress upon, mark
+idem: the same
+sic: thus, in this way
+ita: in this way, so, thus
+quoties: how often
+toties: as often
+semel: once
+bis: twice
+ter: thrice
+quater: four times
+quinquies: five times
+sexies: six times
+decies: ten times
+adverbium: adverb
+uxor: wife
+maritus: husband
+columna: column
+signum: sign, signal, standard
+tectum: roof, house
+dea: goddess
+coniunx: husband, wife, spouse
+matrona: married woman
+amor: love
+pulchritudo: beauty
+adulescens: adolescent
+virgo: maiden
+domus: house, home
+templum: temple
+forum: forum, market place
+donum: gift, present
+flos: flower
+melior: better
+peior: worse
+optimus: best
+pessimus: worst
+maior: older
+minor: younger
+maximus: very great, greatest
+minimus: smallest
+magnificus: magnificent
+plures: more, several
+plurimi: most
+dives: rich
+pauper: poor
+miser: miserable, wretched, sad
+beatus: happy, blessed
+dignus: worthy (of), deserving (of)
+gracilis: thin, graceful
+convenīre: to fit, arrive, meet
+possidēre: to own
+mittere: to send, throw, let go
+remittere: to let go, relax
+osculārī: to kiss
+minuere: to diminish
+augēre: to increase, exaggerate
+opus est: it's necessary
+ullus: any
+tamen: however, nevertheless, yet
+cotidie: every day, daily
+minus: less
+plus: more
+erga: towards
+praesens: present, existing
+praeteritum: preterite
+infans: baby
+cunae: cradle
+somnus: sleep
+lac: milk
+mulier: woman (not femina)
+nutrix: nursemaid
+gradus: step
+sermo: speech, talk, conversation, chatter
+filiola: little girl
+colloquium: meeting, conversation
+officium: duty, task, function
+silentium: silence
+parvulus: little
+necessarius: necessary
+alienus: belonging to another
+futurus: future
+umidus: wet
+for (fans): speak
+carēre: to be without, have no
+postulāre: to demand, ask
+vagārī: to wander
+alere: to nourish
+colloquī: to speak with
+manēre: to remain, stay
+pergere: to go on, proceed
+curāre: to take care of
+debēre: to owe, ought
+occurrere: to occur, happen
+silēre: to keep silent
+advehī: to carry, bring
+revertī: to go back
+diligere: to love
+decet: it suits, it is right
+mox: soon
+magis: more, rather
+raro: rarely
+cras: tomorrow
+adversus: against, up(hill)
+profecto: certainly
+minime: no
+una cum: along with
+vestis: clothes
+genu: knee
+humus: ground, earth
+cruor: blood
+bos: ox
+cornu: horn, wing (of an army)
+causa: cause
+porcus: pig
+pugna: fight, battle
+sordes: dirt, filth
+solum: only
+tabella: writing tablet; race-card, program; ballot
+mundus: world, universe
+candidus: white, bright, clear
+angustus: narrow, confined
+validus: strong, powerful
+indignus: undeserved
+falsus: false
+cognoscere: get to know, find out, learn
+conspicere: notice, observe, see
+excusāre: make excuses, excuse
+vincere: conquer, defeat, win, be victorious
+narrāre: tell, relate
+mutāre: change, alter
+mentīrī: lie, deceive
+credere: believe, trust, entrust
+fallere: deceive, cheat, escape one's notice
+dubitare: doubt
+aliquis: someone, something, anyone, anything
+aliquid: somthing
+humi: on the ground
+interim: meanwhile
+postquam: after, when
+perfectum: perfect
+imperfectum: imperfect
+foris: out of doors
+limen: threshold
+cardo: hinge, flashpoint
+ianitor: janitor
+catëna: chain
+aurum: gold
+lignum: piece of wood, tree
+faber: engineer
+tabellarius: postman
+imago: image, likeness, ghost
+pallium: coat, cloak
+aureus: golden
+ferox: fierce, cruel, brave
+ferreus: iron
+ligenus: wooden
+custodīre: guard
+admittere: let go of, commit
+vincere: tie, bind
+rogitāre: ask
+fremere: growl
+mordere: bite, nibble
+retinēre: hold back, restrain, keep
+cavēre: beware (of), take care
+monēre: warn, advise, teach
+resistere: resist, oppose
+solvere: loosen, melt, pay
+terrēre: frighten
+accedere: approach
+salīre: jump
+rumpere: break, burst, break through
+cedere: I yield, I give up; (in compounds) go
+prehendere: catch, take hold of
+recedere: go back
+procedere: advance, proceed
+sinere: allow, permit
+deridēre: mock
+tremere: tremble
+pellere: push, drive, rout
+removēre: remove
+arbitrārī: think
+scindere: rip, tear
+iste: that one
+scilicet: presumably, of course
+antea: before, previously (not prius)
+postea: afterwards, then
+prius: before, previously (not antea)
+tandem: at last, finally
+nuper: recently, lately
+foras: out side
+sicut: just as, like, as, as if
+extra: outside, beyond
+intra: inside, within
+supinum: supine
+signum: sign, signal, standard
+litterae: a letter
+vultus: face, expression
+laus: praise, honour, credit
+factum: deed
+pudor: shame, modesty, honour, disgrace
+promissum: promise
+verbera: beating
+clavis: key
+comes: comrade, companion
+integer: whole
+pallidus: pale
+planus: flat, level
+superior: higher
+tradere: hand over, entrust, hand down, surrender
+dimittere: dismiss, scatter
+debēre: to owe, ought
+continēre: hold in, restrain
+pallēre: grow pale
+solvere: loosen, melt, pay
+merēre: deserve
+avertere: turn away, divert
+inscribere: write, inscribe
+negāre: deny
+fatērī: declare, admit, betray
+perdere: destroy, lose
+rubēre: blush
+promittere: promise
+includere: shut up, imprison
+comitārī: accompany
+illinc: from there, on that side
+hinc: from here, hence, henceforth
+fortasse: perhaps
+umquam: ever
+posthac: after this
+antehac: before this
+heri: yesterday
+ob: because of
+latus: wide, broad
+sonus: noise, sound
+strepitus: noise, rustle
+dolor: pain, sorrow, anger
+os: mouth, face
+tumultus: uproar, disturbance, civil war
+aegrotus: sick
+laevus: left
+par: equal
+impar: unequal
+subitus: sudden
+cruentus: bloody
+convertere: turn upside down, convert
+mirārī: gaze at
+recumbere: recline, lay down
+percutere: beat, strike
+frangere: break, crush
+flēre: weep
+patī: suffer, endure, allow
+ignorāre: do not know, be ignorant, misunderstand
+noscere: get to know
+cupio: desire, wish, want
+iuxta: next to, joined
+denuo: anew, over and over
+continuo: immediately, forthwith
+certo: certainly
+primo: at first
+valde: really
+aliter: otherwise
+intus: inside, within
+etsi: although
+ceterum: but
+plusquamperfectum: pluperfect
+fabula: story
+agnus: lamb
+currus: chariot
+moenia: city walls, city
+monstrum: monster
+taurus: bull
+labyrinthus: labyrinth
+aedificium: building
+mors: death
+rex: king
+expugnatio: assault, storming
+gloria: glory, fame
+auxilium: help; (pl ) (auxiliary) troops
+civis: citizen
+exitus: way out, end, death
+flium: thread
+mora: delay
+nex: death, murder
+saxum: rock
+conspectus: sight
+cupiditas: desire, greed
+paratus: ready, prepared
+rego: rule, direct
+traho: pull, drag, draw
+interficio: kill
+aedifico: build
+voro: devour
+pateo: be open, clear, visible
+neco: kill
+constituo: decide, establish
+occidere: to kill, fall
+polliceor: promise
+prospicio: forsee, see far off
+descendo: descend, come down
+maereo: grieve
+desero: leave behind, abandon
+oblïviscor: forget
+coepi: began
+complures: several
+forte: by chance
+quotannis: annual
+olim: once, formerly, one day
+ibi: there, then
+illuc: to that place
+huc: here, to this place
+brevi: in a short time
+fuga: flight, escape
+consilium: council, plan, advice, prudence
+carcer: prison
+orbis: globe, world
+natura: nature
+ars: art, skill
+opus: work, toil, construction
+penna: wing, feather
+ignis: fire
+lacertus: arm
+libertas: freedom
+multitudo: crowd, multitude
+paeninsula: peninsula
+casus: chance, disaster, fall
+celer: quick
+reliquus: the rest of, the other
+audax: bold, daring
+liber: free, book
+studiosus: enthusiastic, a fan
+ingens: huge
+infimus: the bottom
+summus: highest, greatest, top (of)
+temerarius: rash, thoughtless
+propinquus: near, neighboring
+persequor: pursue, overtake
+consequor: follow, come after
+conficio: complete, wear out
+consumo: eat, consume, spend
+invenio: find, discover
+effugio: escape
+iuvo: help
+excogito: devise, contrive
+imitor: imitate
+evolo: fly out
+perficio: bring about, complete, perfect
+mollio: soften
+figo: fix, pierce
+levo: lift, lighten
+uro: burn
+suspicio: suspect
+despicio: despise
+accido: happen
+quatio: shake
+aberro: stray, wander
+revoco: recall
+videor: seem, appear, be seen
+quisquam: anyone, anything
+sursum: upwards
+deorsum: downwards
+haud: not
+paene: almost, nearly
+quidem: indeed, in fact, however
+tamquam: as if, as though
+quoniam: since
+verum: but, but yet, however
+sin: on the contrary
+trans: across, over
+gerundium: gerund
+ager: field, land, territory
+frumentum: corn, grain
+agricola: farmer
+negotium: business
+aratrum: plough
+instrumentum: tool
+semen: seed
+falx: sickle, grappling-hook
+regio: region
+fruges: fruits, crops
+pecus: herd, flock
+pabulum: fodder
+lana: wool
+copiae: troops, forces, supplies
+vitis: vine-wood staff (carried by a centurion)
+vinea: vinyard
+uva: grapes
+vinum: wine
+praedium: farm, estate
+laboro: work, toil
+rus: country
+otium: leisure, idleness, peace
+colonus: farmer, tenant
+patientia: endurance, patience
+cura: care, charge, anxiety
+preces: prayers, pleas
+calor: heat
+frigus: cold
+grex: herd
+amoenus: beautiful, pleasant
+maturus: ripe, complete
+rudis: inexperienced, unkept
+fertilis: fruitful
+suburbanus: suburban
+urbanus: of the city
+patiens: patient
+rusticus: rustic, uncouth
+gravidus: pregnant
+siccus: dry
+neglegens: negligent
+nequam: bad, wicked
+immaturus: unready
+inhumanus: cruel, inhuman
+tircesimus: thirtieth
+quiesco: rest, be quiet
+cingo: surround
+cresco: grow
+meto: reap, cut off
+aro: plow
+sero: sow (seed)
+colo: live in, cultivate
+spargo: sprinkle
+utor: I use, I enjoy
+pasco: feed, graze
+invehor: sail in, bring in
+rigo: wet, water
+laboro: work, toil, be in difficulty
+existimo: think
+censeo: give one's opinion
+proicio: throw down, throw out
+oro: beg
+rapio: seize, grab, carry off, plunder
+neglego: neglect, disregard
+prosum: be an advantage
+noceo: hurt, harm
+prohibeo: prevent
+quidam: one, a certain, some
+parum: not enough, too little
+tantum: only
+denique: at last, finally, in short
+circa: around
+prae: in front of
+abs: by, from
+coniunctvus: subjunctive
+fretum: sea
+animus: spirit, soul, mind, courage
+turba: crowd, mob, disturbance, multitude
+fama: rumour, fame, glory
+libellus: little book, pamphlet
+dictum: word
+princeps: emperor, chief, chieftain
+tibicen: piper
+potestas: power, authority, opportunity
+mundus: world, universe
+navicula: small boat
+vigilia: watch (of the night)
+phantasma: ghost
+tranquilitas: peace and quiet
+vorago: whirlpool
+periculum: danger
+praedo: pirate, robber
+peculium: savings
+caecus: blind, unseen
+surdus: deaf
+mutus: mute
+claudus: crippled
+universus: whole, entire
+mortalis: mortal
+immortalis: immortal
+constans: constant
+salvus: safe
+attentus: attentive, conscientious
+tutus: safe
+perīculōsus: dangerous
+quadrigesimus: fortieth
+disiungo: unyoke
+eicio: throw out, expel
+cesso: cease, hesitate
+oboedio: obey
+adoro: honor, worship
+nascor: be born
+morior: die
+extendo: spread out, stretch out
+apprehendo: seize, grasp, overcome
+memoro: remember, mention, say
+rogo: ask, ask for
+evolvo: unroll, explain
+suscito: encourage, awaken
+tumultuor: make a commotion
+regno: rule
+versor: move about, be involved in, go about among
+persuadeo: persuade, convince
+salvo: save
+pereo: die, perish, be ruined
+impendo: spend, pay
+pervenio: reach, arrive
+vito: avoid
+spero: hope, expect
+servio: serve, be a slave
+admiror: respect, admire
+potius: rather, more
+utrum: whether
+velut: just as, like, as, as if
+fundus: farm
+vita: life
+lucrum: money, profit
+spes: hope
+divitiae: riches, wealth
+iactura: loss, sacrifice
+laetitiae: happiness, joy
+tristitia: sadness
+navigatio: sailing
+delphinus: dolphin
+fides: trust, faith, confidence, loyalty
+fidicen: lyre-player
+cantus: song, spell
+carmen: charm, spell, hymn
+dorsum: back
+maleficium: mischief, harm, wrong-doing
+salus: health, safety, greeting
+fur: thief
+furtum: theft
+beneficium: kindness, service, favour
+tyrannus: tyrant
+felicitas: luck
+invidia: envy
+piscator: fisherman
+remus: oar
+pretiosus: precious
+mirus: amazing
+maestus: sad
+felix: fortunate, happy, prosperous
+notus: known, well-known, famous
+ignarus: ignorant, not knowing
+nobilis: noble, famous
+ignotus: unknown
+rapidus: swift
+celsus: high, arrogant
+fallax: false
+velox: fast
+deterreo: frighten off
+adicio: add
+aestimo: estimate, value
+remaneo: stay behind, remain
+queror: complain
+admittere: let go of, commit
+eripio: snatch away, rescue
+afficio: affect, treat, fill, influence
+precor: pray, pray to, beg
+perturbo: confuse, throw into confusion
+reduco: lead back, reduce
+invideo: grudge, hate, envy
+parco: spare
+permitto: hand over, entrust, permit, allow
+permoveo: rouse, affect, move deeply
+abstineo: withhold, abstain
+desilio: jump down
+despero: despair
+allicio: entice, attract
+subeo: I go under/up to
+expono: set out, expose
+appareo: appear
+stupeo: be astounded
+confiteor: admit
+surripio: take away, steal
+abicio: throw, throw away
+detraho: take off, pull off
+suadeo: I urge, I persuade
+dono: give, gift
+seco: cut
+recognosco: review, recall to mind, revise
+finio: limit, finish
+appropinquo: approach, come near to
+nonnulli: some, several
+sese: himself
+frustra: in vain
+inde: from there, thereupon, next
+prötinus: immediately
+repente: suddenly
+quasi: as if, just as, nearly
+nonnumquam: sometimes
+balneum: bath
+hospes: guest, host
+cena: dinner
+iter: journey, march, way
+fames: hunger
+sitis: thirst
+bonum: good
+triclinium: dining room
+culina: kitchen
+cocus: cook
+minister: waiter
+medium: middle
+convivum: banquet
+conviva: guest
+genus: race, descent, birth, kind
+vas: plate, dish
+minister: servant
+argentum: silver, money
+holus: vegetable
+nux: nut
+caro: meat
+merum: wine
+libertinus: freedman
+mel: honey
+inexspectatus: unexpected
+tardus: slow, lazy
+diligens: careful, diligent
+iucundus: pleasant, sweet
+molestus: annoying
+imus: the bottom (of)
+argentus: silver
+gloriosus: amazing, boastful
+acutus: sharp, keen
+merus: wine
+acerbus: bitter
+dulcis: sweet
+recipio: regain, receive, welcome
+salvere iubeo: greet
+viso: visit
+requiesco: rest, end
+fruor: enjoy
+nuntio: announce, report
+contraho: draw in, muster
+praesum: be in charge of
+ceno: dine
+perfero: convey, report, endure
+eligo: select, choose
+coquo: cook
+exorno: decorate, embellish
+paro: prepare, provide
+sterno: spread, lay low
+accumbo: lie down
+accubo: sit, recline,
+placet: it pleases, suits, it is resolved
+gusto: taste, have a light meal
+aspergo: sprinkling, spray
+fundo: pour, shed, rout
+misceo: mix, combine
+poto: drink
+libero: set free
+apporto: carry to, import, present
+profero: bring forward, mention, advance
+exhaurio: take away, remove
+compleo: fill, complete
+singuli: one at a time
+bini: two at a time
+terni: three at a time
+circiter: about
+diu: for a long time
+paulisper: for a short time
+demum: finally
+pridem: previously, some time ago
+equidem: I myself, indeed, for my part
+potio: potion, drink
+rumor: rumour
+memoria: memory, recollection
+munus: service, duty, present
+fides: trust, faith, confidence, loyalty
+crux: cross
+iuvenis: young man, young
+praemium: prize, reward
+poena: punishment, penalty
+ius: law, right
+lex: law
+parricida: murderer
+scelus: crime, wickedness
+supplicium: punishment
+mos: habit, custom, (pl) character, morals
+iniuria: injustice, injury, wrong
+senex: old man
+nugae: trifles
+praesens: present, existing
+avarus: greedy
+impatiens: impatient
+infelix: unlucky
+asininus: stupid
+fidus: faithful
+infidus: unfaithful
+fugitivus: runaway slave
+nimius: excessive
+clemens: merciful
+iustus: right, just, lawful, complete
+iniustus: unjust
+sapiens: wise, sensible
+scelestus: wicked
+crudelis: cruel
+vetus: old
+invalidus: weak
+debilis: feeble, weakened
+ebrius: drunk
+nonagesimus: ninetieth
+opto: wish for, pray, choose
+interpellare: to interrupt
+aufugo: chase away, exile
+aufero: take away, carry off, steal
+fido: trust, rely upon
+confido: trust, believe, have confidence
+crucio: torture
+lateo: lurk, hide
+retraho: draw back, withdraw, make known
+statuo: fix, determine, decide, arrange
+ignosco: forgive
+odi: hate
+veto: forbid, order...not
+educo: bring up, educate
+abduco: lead away, carry off
+fabulor: talk, chat
+quidquid: whatever
+quantum: how great
+aliquantum: a good deal
+nimium: too much
+quamobrem: why?
+ideo: to such an extent
+funditus: utterly
+priusquam: before, until
+namque: in fact, on the other hand
+coram: in person
+servitus: slavery
+incola: inhabitant
+vis: force, violence; (pl) strength, forces
+vires: strength
+audacia: courage
+inopia: shortage, lack, poverty
+populus: people, nation
+classis: fleet
+victoria: victory
+gens: race, people, family, tribe
+victor: victor, conqueror
+voluntas: will
+gratia: favour, thanks, esteem
+poeta: poet
+amicitia: friendship
+pirata: pirate
+condicio: condition, (pl) terms
+talentum: talent (of money)
+amphitheatrum: amphitheatre, amphitheater
+cursus: course, race
+cunctus: all, whole
+infestus: hostile
+carus: dear
+egregius: outstanding
+gratus: welcome, agreeable
+vilis: cheap
+internus: internal
+mercatorius: of a merchant
+nubilus: cloudy
+adversus: hostile
+adversus: against, up(hill)
+inermis: unarmed
+mutuus: shared, exchanged
+superbus: haughty, proud
+submergo: submerge
+contemno: despise
+praepono: prefer
+percurro: run across
+tueor: protect
+remigo: row
+adiuvo: help
+flecto: turn
+educo: bring up, educate
+repugno: fight back, resist
+praefero: prefer
+offero: present, offer
+redimo: fulfill, buy back
+reminiscor: remember, recollect
+refero: bring back, report, refer
+minor: threaten
+armo: arm, equip
+desisto: cease
+aliquot: considerable
+ubique: everywhere
+aliquando: some time
+interea: meanwhile
+etiamnunc: even now
+donec: until, as long as
+neutrum: neither
+utinam: if only
+legio: legion
+cohors: cohort, company
+agmen: column of men, army
+ordo: rank, order, line
+acies: line, battle line, army
+proelium: battle
+imperator: emperor, general, leader
+aetas: age
+studium: eagerness, study, devotion
+stipendium: tribute, military pay
+virtus: courage, virtue
+gaudium: joy, delight
+valetudo: health
+amnis: river
+ratis: ship, raft
+ripa: bank (of a river)
+caedes: slaughter, killing, murder
+vulnus: wound, injury
+pax: peace
+legatus: legate
+ensis: sword
+legionarius: legionary (soldier)
+idoneus: suitable, convenient
+militaris: miltary
+publicus: public, common
+privatus: private
+posterus: next, later
+arduus: difficult
+ridiculus: ridiculous
+ulterior: farther
+citerior: closer
+incolumis: unharmed
+otiosus: at leisure
+dirus: dreadful, detestable, ominous, fearful
+horrendus: terrifying, frightening
+deni: ten by ten
+seni: six by six
+quini: five by five
+quaterni: four by four
+uni: one by one
+trini: three by three
+adiungo: add, attach
+progredior: advance, proceed
+instruo: draw up, prepare, equip, supply
+hortor: urge, encourage
+caedo: chop, kill, strike
+circumdo: surround, envelop
+munio: fortify, defend, guard
+commemoro: mention, relate
+studeo: favour, support
+cogo: compel
+fatigo: be weary
+propero: hurry
+desidero: want, desire
+transfero: bring, transport
+effundo: pour out
+praesto: to be superior (to)
+transeo: go past, pass
+copulo: join
+convoco: convoke, summon
+excurro: run out, sally forth
+procurro: advance, run ahead
+erumpo: burst out, break out
+vulnero: wound, injure
+fores: door, double doors
+plerique: most, the majority
+pridie: on the previous day
+praecipue: especially
+tamdiu: so long
+quamdiu: how long, as long as
+diutius: any longer
+fere: nearly, about
+etenim: for, in fact
+citra: this side of, inferior to
+ultra: on the other side
+scalpellum: scalpel
+opera: work, effort, attention, trouble
+ludus: school
+ludus: game (pl. the games)
+certamen: contest, battle, struggle
+gladiator: gladiator
+rete: net
+spectator: onlooker
+palma: palm, hand, prize
+circus: racecourse
+auriga: charioteer
+theatrum: theatre
+comoedia: comedy
+ingenium: character, ability
+ratio: account, reckoning, manner, reason
+principium: origin
+fatum: fate, destiny
+gremium: lap
+tenebrae: darkness
+lucerna: lamp
+passer: sparrow
+deliciae: delight
+ocellus: dear eye, pretty eye
+mens: mind
+basium: kiss
+odium: hatred
+risus: laugh
+cachinnus: jeer, ugly laugh
+aranea: spiderweb, spider
+nota: mark, sign
+turgidus: swollen
+misellus: poor little thing
+gladiatorius: gladiator
+circensis: circus
+scaenicus: theatrical
+acer: keen, sharp, fierce
+geminus: double, twin
+bellus: pretty
+poeticus: poetic
+venustus: charming
+mellitus: sweet
+tenebricosus: shadowy
+ultimus: furthest, last, utmost
+perpetuus: frightened
+dubius: doubtful, wavering
+iocosus: jokey
+serius: lately
+niveus: snowy, white
+certaro: contest, fight with
+laedo: hurt, injure, harm
+implico: implicate, involve
+plaudo: clap
+libo: touch lightly, skim
+libere: freely
+faveo: favour, support
+lugeo: mourn, weep
+accendo: kindle, inflame
+circumsilio: hop around
+pipio: chirp
+devoro: devour
+conturbo: confuse, stir up
+nubo: I marry
+affirmo: affirm, claim, declare
+requiro: search for, question
+excrucio: torture
+oscito: yawn, gape
+sapio: taste
+erubesco: be red
+prosilio: jump up
+elido: strike destroy
+libenter: freely
+plerumque: generally, mostly
+interdum: sometimes
+dummodo: provided that
+deinde: then
+nil: nothing
+iambus: iambus
+casa: cottage, hut
+stramentum: straw, thatch
+arx: citadel, fortress
+consul: consul
+incendium: fire
+marmor: marble, sea
+cella: sanctuary, cellar
+simulacrum: image, statue, ghost
+sedes: seat, temple, home
+triumphus: triumph
+sacrificium: sacrifice
+metallum: metal
+aes: bronze, thing of bronze
+palus: marsh
+cloaca: sewer
+basilica: basilica, church
+vicus: village
+curia: senate-house
+senatus: senate
+senator: senator
+orator: orator
+rostrum: beak, ship's bow
+prora: prow
+aedes: building, temple
+promunturium: peak, promontory
+focus: hearth
+regia: palace
+pontifex: priest
+aerarium: treasury
+discordia: disagreement, discord
+factio: party, faction
+patricius: patrician
+plebs: the people, common people
+plebeius: plebeian
+concordia: concord, agreement
+vetustas: antiquity
+odor: scent, smell
+porticus: covered walk, colonnade
+clivus: slope
+ara: altar
+statua: statue
+genetrix: mother
+monumentum: monument
+ultor: avenger
+later: brick
+bibliotheca: library
+mausoleum: mausoleum
+balneae: baths
+thermae: public baths
+aquae ductus: aquaduct
+longitudo: length
+flamma: blaze, flame, passion
+vestibulum: entrance, court
+stagnum: pool, lagoon
+pecus: herd, flock
+candelabrum: candlestand, candelabra
+tuba: trumpet
+morbus: sickness, disease
+laurus: laurel
+stadium: stadium, race course
+pons: bridge
+magnitudo: greatness, size
+origo: descent, family
+quadratus: square
+firmus: strong, reliable
+sacer: sacred, dedicated
+augustus: holy, august
+amplus: great, large
+subterraneus: underground
+celeber: packed, crowded
+illustris: bright, shining
+rotundus: round
+domesticus: domestic
+aeternus: eternal
+divinus: divine, godlike, prophetic
+divus: god
+marmoreus: made of marble
+auratus: gilded
+interiectus: lying between
+latericius: brick
+anniversarius: annual
+arcuatus: arched
+insanus: mad, raging, insane
+splendidus: splendid, glittering
+interior: inside, inner
+triumphalis: triumphal
+aereus: bronzen
+praeclarus: outstanding
+vicesimus: twentieth
+restare: stand firm, remain
+tegere: cover, protet, defend, hide
+praecipitare: cast down, throw headlong
+sacrare: devote
+expellare: drive out
+reficere: repair, restore, refresh
+siccare: dry
+deducere: lead away, launch
+exstruere: construct, raise
+venire: to sell
+locare: place, pitch
+eminere: stand out
+destruere: demolish, destroy
+evenire: come about, happen
+ardere: burn, flash
+exstinguere: quench, kill
+praeficere: put in charge
+cremare: burn, destroy, make an offering
+deponere: put aside, give up
+restituere: restore, revive
+collabi: collapse, be in ruin
+dedicare: declare, dedicate
+triumphare: triumph
+renovare: renew, restore
+superare: overpower
+incendere: set on fire, burn, incite
+ulcisci: avenge
+incohare: begin, establish
+absumere: waste,spend, consume
+gloriari: boast, brag
+exercere: exercise, train
+inducere: lead in, bring in
+inire: enter, undertake
+probare: approve, test, prove
+collocare: put together, assemble
+adimere: withdrwaw, seize, take
+tertium: for the third time
+ibidem: in that very place
+lentius: more slowly
+repete: repeat (pl.)
+iterum: again (not rursus)
+si placet: please
+Rogandum mihi est: I have a question
+libenter: you are welcome
+gratias (tibi ago): thank you
+Placetne tibi?: Do you like it?
+Quid agis?: What’s up?
+Ut vales?: How are you?
+Hodie sum...: Today I am...
+Quid est nomen tibi?: What is your name?
+Mihi nomen est...: My name is
+ita: yes
+minime: no
+fortasse: maybe
+nescio: I don’t know
+scio: I know
+Licetne mihi ire ad latrinam?: May I go to the bathroom?
+scilicet: obviously
+quidquid: whatever
+Quaenam est tempestas hodie?: What is the weather like today?
+Quomodo dicitur...(Latine)?: How do you say...(in Latin)?
+Quid significat...?: What does...mean?
+magistra: teacher (f)
+discipulus: student (m)
+stylus: pen (not calamus)
+graphis: pencil
+legite: read
+audite: listen (pl.)
+sedete: sit (pl.)
+scribite: write (pl.)
+agenda: things to do
+copiae: supplies
+collectorium: binder
+pensum: homework
+ordinatrum: computer
+tacete: be quiet
+pingite: draw (pl.)
+quis: who
+quid: what
+ubi: where
+quomodo: how
+quando: when
+cur: why
+quot: how many
+qualis: what kind
+sarcina: backpack
+calamus: pen (not stylus)
+tabella: notebook
+surgite: stand up

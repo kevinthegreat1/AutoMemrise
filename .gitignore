@@ -1,0 +1,14 @@
+# Project exclude paths
+/out/
+/target/
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macos
+
+*.DS_Store
